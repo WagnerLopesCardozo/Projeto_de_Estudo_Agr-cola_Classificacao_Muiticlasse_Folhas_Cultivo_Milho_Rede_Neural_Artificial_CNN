@@ -1,0 +1,2 @@
+# Projeto_de_Estudo_Agr-cola_Classificacao_Muiticlasse_Folhas_Cultivo_Milho_Rede_Neural_Artificial_CNN
+Este Projeto de Estudo tem por objetivo estudar as Redes Neurais Artificiais Convolucionais CNN, para identificação de pragas em folhas do cultivo de milho, podendo o algorítmo ser uma aplicação para auxiliar a identificação de pragas contribuindo para a tomada de decisão, quanto ao uso correto de agentes químicos no combate destas pragas.
