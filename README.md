@@ -42,3 +42,14 @@ A Vila Polagan, sendo uma comunidade agrícola dentro deste distrito, beneficia-
 
 * Sandi Indika Saputra. (2023). Corn Leaf Disease [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/6341289
 
+# Conclusão:
+
+
+# Referência Bibliográfica:
+
+
+
+![image](https://github.com/user-attachments/assets/637e3af2-04c9-4235-8f06-39d4ad8d3576)
+
+  
+
